@@ -9,5 +9,5 @@ Add a new name.->go to iana to check interface type. for example, 802.1x = ehter
 add a new name -> New filter -> ip host host.example.com
 ######22 ring buffer
 gear->output->ring buffer with 4 files( create a new file automatically after 100 mega
-#######42 create a configuration profile
+######42 create a configuration profile
 edit->copy->configuration profiles
